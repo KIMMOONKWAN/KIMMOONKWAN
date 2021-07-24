@@ -1,4 +1,4 @@
-###  Junior Developer🌱
+###  Junior Developer 🌱
 ---
 ### USE
 #### Front
@@ -7,15 +7,32 @@
 - bootstrap
 
 #### Back
-- java
-- spring, spring boot
-- jsp, thymeleaf
+- Java
+- Spring, Spring Boot
+- Jsp, Yhymeleaf
 
 #### DB
-- oracle
-- h2
- 
+- Oracle
+- H2
 
+#### Tool
+- Eclipse
+- IntelliJ
+- Visual Studio Code
+
+#### OS
+- Window
+- Ubuntu
+---
+ ### TO DO 💬
+ - Vue.js
+ - React, React Native
+ - TypeScript
+ - Node.js
+ - Next.js, Nuxt.js, Express
+ - NativeScript
+ - JPA, Spring JPA
+ - MySQL
 <!--
 **KIMMOONKWAN/KIMMOONKWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
