@@ -9,7 +9,7 @@
 #### Back
 - Java
 - Spring, Spring Boot
-- Jsp, Yhymeleaf
+- Jsp, Thymeleaf
 
 #### DB
 - Oracle
