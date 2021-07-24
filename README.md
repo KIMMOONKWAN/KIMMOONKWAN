@@ -1,4 +1,20 @@
-###  junior developer🌱
+###  Junior Developer🌱
+---
+### USE
+#### Front
+- html, css, javascript
+- jquery
+- bootstrap
+
+#### Back
+- java
+- spring, spring boot
+- jsp, thymeleaf
+
+#### DB
+- oracle
+- h2
+ 
 
 <!--
 **KIMMOONKWAN/KIMMOONKWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
