@@ -26,6 +26,7 @@
 ---
  ### TO DO 💬
  - Vue.js
+ - Kotlin
  - React, React Native
  - TypeScript
  - Node.js
