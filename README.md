@@ -10,6 +10,7 @@
 - Java
 - Spring, Spring Boot
 - Jsp, Thymeleaf
+- mybatis
 
 #### DB
 - Oracle
@@ -25,15 +26,17 @@
 - Ubuntu
 ---
  ### TO DO 💬
+ - React
  - Vue.js
  - Kotlin
  - React, React Native
  - TypeScript
  - Node.js
- - Next.js, Nuxt.js, Express
+ - Nest.js, Next.js, Nuxt.js, Express
  - NativeScript
  - JPA, Spring JPA
  - MySQL
+ 
 <!--
 **KIMMOONKWAN/KIMMOONKWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
