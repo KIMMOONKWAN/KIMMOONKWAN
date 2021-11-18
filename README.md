@@ -14,6 +14,7 @@
 
 #### DB
 - Oracle
+- MariaDB
 - H2
 
 #### Tool
@@ -24,6 +25,7 @@
 #### OS
 - Window
 - Ubuntu
+- Mac
 ---
  ### TO DO 💬
  - React
