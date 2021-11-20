@@ -21,24 +21,21 @@
 #### Tool
 - Eclipse
 - IntelliJ
+- PyCharm
 - Visual Studio Code
+- DBeaver
 
 #### OS
 - Window
 - Ubuntu
+- Centos
 - Mac
 ---
  ### TO DO 💬
- - React
- - Vue.js
- - Kotlin
- - React, React Native
- - TypeScript
  - Node.js
- - Nest.js, Next.js, Nuxt.js, Express
- - NativeScript
- - JPA, Spring JPA
- - MySQL
+ - Express, Nestjs
+ - python
+ - Django, FastApi
  
 <!--
 **KIMMOONKWAN/KIMMOONKWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
