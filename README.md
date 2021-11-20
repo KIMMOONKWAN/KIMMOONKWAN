@@ -3,14 +3,15 @@
 ### USE
 #### Front
 - html, css, javascript
+- Jsp, Thymeleaf
 - jquery
 - bootstrap
 
 #### Back
 - Java
 - Spring, Spring Boot
-- Jsp, Thymeleaf
 - mybatis
+- Jpa
 
 #### DB
 - Oracle
