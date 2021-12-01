@@ -32,10 +32,10 @@
 - Mac
 ---
  ### TO DO 💬
- - Node.js
- - Express, Nestjs
+ - node.js
+ - express, nestjs
  - python
- - Django, FastApi
+ - django, fastapi
  
 <!--
 **KIMMOONKWAN/KIMMOONKWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
